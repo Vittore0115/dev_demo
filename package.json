@@ -1,0 +1,23 @@
+{
+  "name": "dev_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vittore0115/dev_demo.git"
+  },
+  "keywords": [],
+  "author": "Vittore <yc_zwt@163.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vittore0115/dev_demo/issues"
+  },
+  "homepage": "https://github.com/Vittore0115/dev_demo#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
